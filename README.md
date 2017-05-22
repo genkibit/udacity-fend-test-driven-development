@@ -14,7 +14,7 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 Link
 ---
-Access the test page **[here](http://genkibit.github.io/udacity-fend-test-driven-development/)**.
+Access the test page **[here](http://noelnoche.github.io/udacity-fend-test-driven-development/)**.
 
 
 Suggested Test Suites
