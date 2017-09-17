@@ -19,9 +19,9 @@ Unfortunately, they decided to move on to start their own company and we're now 
 incomplete test suite. That's where you come in.
 
 
-Link
+App Link
 ---
-http://noelnoche.github.io/udacity-fend-test-driven-development/
+http://noelnoche.github.io/udacity-fend-test-driven-development
 
 
 Suggested Test Suites
